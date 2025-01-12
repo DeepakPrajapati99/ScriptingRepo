@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#4. Application Health Checker:
 # Configurations
 APP_URL="http://3.111.58.159:4499"  # URL of the application
 LOG_FILE="app_uptime.log"  # Log file for status
